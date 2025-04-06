@@ -48,7 +48,7 @@
   <a href="mailto:er.arpit.kashyap@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Email-Reach%20Out%20Now-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
-  <a href="https://calendly.com/arpitk" target="blank">
+  <a href="https://calendly.com/er-arpit-kashyap" target="blank">
     <img src="https://img.shields.io/badge/Schedule%20a%20Call-30%20Mins%20Free-blue?style=for-the-badge&logo=googlecalendar" alt="Calendly"/>
   </a>
 </p>
