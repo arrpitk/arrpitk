@@ -1,37 +1,59 @@
-<h1 align="center">Hi 👋, I'm Arpit R. Kashyap</h1>
-<h3 align="center">Data Scientist From India</h3>
+<h1 align="center">👋 Hi, I'm Arpit R. Kashyap</h1>
+<h3 align="center">Senior AI Architect | LLM/RAG & GenAI Specialist | Azure-Certified Cloud Leader</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arrpitk&label=Profile%20views&color=0e75b6&style=flat" alt="arrpitk" /> </p>
-
-- 🔭 I’m currently working on **Generative AI**
-
-- 👯 I’m looking to collaborate on **AI Projects**
-
-- 👨‍💻 All of my projects are available at [https://arpitk.me/projects](https://arpitk.me/projects)
-
-- 📝 I regularly write articles on [https://arpitk.me/blog](https://arpitk.me/blog)
-
-- 📫 How to reach me **arpit.kashyap@live.com**
-
-- 📄 Know about my experiences [https://arpitk.me/cv](https://arpitk.me/cv)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arrpitk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arrpitk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aarpitk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarpitk" height="30" width="40" /></a>
-<a href="https://kaggle.com/arrpitk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arrpitk" height="30" width="40" /></a>
-<a href="https://medium.com/@arrpitk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arrpitk" height="30" width="40" /></a>
-<a href="/https://arrpitk.medium.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://arrpitk.medium.com/feed" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/aarpitk" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://arpitk.me/blog" target="blank">
+    <img src="https://img.shields.io/badge/Blog-Read%20My%20AI%20Insights-black?style=flat&logo=medium" alt="Blog"/>
+  </a>
+  <a href="https://arpitk.me/cv" target="blank">
+    <img src="https://img.shields.io/badge/Resume-Download%20CV-orange?style=flat&logo=readthedocs" alt="Resume"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/arrpitk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arrpitk" /></a><a href="https://ko-fi.com/arpitk"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="arpitk" /></a></p><br><br>
+### 🛠️ **Technical Arsenal**  
+**AI/ML Stack**  
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI%20GPT-4-412991?logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-Framework-FF6F00?logo=chainlink&logoColor=white" />  
+<img src="https://img.shields.io/badge/RAG-Architect-FFD700?logo=bookstack&logoColor=black" /> <img src="https://img.shields.io/badge/Reinforcement%20Learning-Advanced-8A2BE2?logo=atom&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch%20%26%20TF-MLOps-EE4C2C?logo=pytorch&logoColor=white" />  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arrpitk&" alt="arrpitk" /></p>
+**Cloud & DevOps**  
+<img src="https://img.shields.io/badge/Azure%20AI-Certified-0078D4?logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-Data%20Pipelines-4285F4?logo=googlecloud&logoColor=white" />  
+<img src="https://img.shields.io/badge/Docker%20%26%20K8s-Orchestration-2496ED?logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/FAISS%20%26%20Pinecone-VectorDBs-00BFFF?logo=databricks&logoColor=white" />  
+
+---
+
+### 🔥 **What I Bring to the Table**  
+- **Scalable AI Systems**: Built solutions with **95%+ accuracy** using GPT-4, RAG, and vector databases.  
+- **Performance Optimization**: Reduced document search latency by **60%** via token management and indexing.  
+- **Leadership**: Led **8+ data scientists** to deliver production-ready AI pipelines with RL/RLHF.  
+- **Full-Stack AI**: From embeddings to distributed systems (BigQuery, MongoDB), ensuring end-to-end scalability.  
+
+---
+
+### 📜 **Certifications**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20Data%20Science%20Associate-0078D4?logo=microsoft&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals-0078D4?logo=microsoft&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20Data%20Fundamentals-0078D4?logo=microsoft&logoColor=white" height="25" />
+</p>
+
+---
+
+### 📬 **Let's Collaborate!**  
+<p align="left">
+  <a href="mailto:er.arpit.kashyap@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out%20Now-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://calendly.com/arpitk" target="blank">
+    <img src="https://img.shields.io/badge/Schedule%20a%20Call-30%20Mins%20Free-blue?style=for-the-badge&logo=googlecalendar" alt="Calendly"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src
